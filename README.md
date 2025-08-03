@@ -4,3 +4,4 @@
 - [Картофель «Айдахо»](aidaho.md)
 - [Сырники из творога](cheese_pancakes.md)
 - [Американский панкейк](american_pancakes.md)
+- [Шарлотка](Sharlotka.md)
